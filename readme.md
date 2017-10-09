@@ -1,4 +1,6 @@
 # The HTML5 Shiv
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5shiv.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5shiv?ref=badge_shield)
+
 
 The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
 
@@ -150,3 +152,7 @@ A [detailed changelog of html5shiv](https://github.com/aFarkas/html5shiv/wiki) i
 ### Why is it called a *shiv*?
 
 The term **shiv** [originates](http://ejohn.org/blog/html5-shiv/) from [John Resig](https://github.com/jeresig), who was thought to have used the word for its slang meaning, *a sharp object used as a knife-like weapon*, intended for Internet Explorer. Truth be known, John probably intended to use the word [shim](http://en.wikipedia.org/wiki/Shim_(computing)), which in computing means *an application compatibility workaround*. Rather than correct his mispelling, most developers familiar with Internet Explorer appreciated the visual imagery. And that, kids, is [etymology](https://en.wikipedia.org/wiki/Etymology).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5shiv.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5shiv?ref=badge_large)
